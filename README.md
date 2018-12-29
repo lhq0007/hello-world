@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi !!
+
+lhq0007 here, I like Node.js and Coffeescript
